@@ -1,0 +1,15 @@
+.disabled {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    text-decoration: line-through;
+    color: rgb(245, 245, 245);
+    background-color: rgb(231, 89, 22);
+  }
+
+  p {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    line-height: 1.2;
+    margin-top: 2px;
+    margin-bottom: 2px;
+  }
